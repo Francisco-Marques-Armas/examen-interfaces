@@ -17,5 +17,5 @@ Se ha añadido una parte en el controlador que permite teletransportar el jugado
 ## Ejercicio 4. Crear un script que desplace aleatoriamente las macetas cada vez que el monstruo esté a una distancia que fijes de la pizarra y le acerque las sillas una distancia prefijada.
 Se ha implementado la funcionalidad propuesta mediante eventos.
 
-## Ejercicio 5. Crear un script que desplace aleatoriamente las macetas cada vez que el monstruo esté a una distancia que fijes de la pizarra y le acerque las sillas una distancia prefijada.
+## Ejercicio 5. Crear un script que al alcanzar el monstruo alguna silla todas las arañas se dirijan a él.
 Se ha implementado la funcionalidad propuesta mediante eventos.
