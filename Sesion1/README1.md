@@ -11,6 +11,7 @@ Se ha creado un controlador en el que siempre se avanza hacia delante, y las tec
 
 ## Ejercicio 3. Crear un script para teletransportar al monstruo a cada vez que se pulse la tecla T.
 Se ha añadido una parte en el controlador que permite teletransportar el jugador a una posición aleatoria dentro de un rango cuando se pulsa la tecla T.
+
 ![Vídeo sin título (3)](https://github.com/Francisco-Marques-Armas/examen-interfaces/assets/72305337/7e7ce4dd-76ab-4426-8898-a419da04b84b)
 
 ## Ejercicio 4. Crear un script que desplace aleatoriamente las macetas cada vez que el monstruo esté a una distancia que fijes de la pizarra y le acerque las sillas una distancia prefijada.
