@@ -16,6 +16,10 @@ Se ha añadido una parte en el controlador que permite teletransportar el jugado
 
 ## Ejercicio 4. Crear un script que desplace aleatoriamente las macetas cada vez que el monstruo esté a una distancia que fijes de la pizarra y le acerque las sillas una distancia prefijada.
 Se ha implementado la funcionalidad propuesta mediante eventos.
+![Vídeo sin título (4)](https://github.com/Francisco-Marques-Armas/examen-interfaces/assets/72305337/54b5bdbf-b768-4b59-909a-21a9aa5e3b77)
 
 ## Ejercicio 5. Crear un script que al alcanzar el monstruo alguna silla todas las arañas se dirijan a él.
-Se ha implementado la funcionalidad propuesta mediante eventos.
+Se ha implementado la funcionalidad propuesta mediante eventos. Sin embargo, probando con la versión que tengo actualmente del proyecto, parece que se me ha olvidado poner la etiqueta "Spider" en las arañas y los colisionadores en las sillas en la entrega. Así es como debería funcionar habiendo hecho esos cambios:
+
+![Vídeo sin título (5)](https://github.com/Francisco-Marques-Armas/examen-interfaces/assets/72305337/60c6307c-cacf-4a38-ad9b-18138925a6c2)
+
